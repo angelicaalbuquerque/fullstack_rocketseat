@@ -90,7 +90,7 @@ Além de Git e Github, a formação conta com as seguintes tecnologias:
 
 ## 💻 Projetos
 
-Todos os projetos realizados nesta formação serão publicados neste espaço.
+Todos os projetos realizados nesta formação serão publicados neste espaço, em breve.
 
 ## 📬 Entre em contato!
 
