@@ -39,7 +39,7 @@
     <img src=".github/fullstack-logo.svg" width="200"/>
 </div>
 
-Este é o repositório principal da formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, com conteúdos atualizados em 2024.
+Este é o repositório principal da formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, com conteúdos atualizados em 2024/2025.
 
 A formação abrange desde os fundamentos da programação, construção de páginas estáticas usando HTML e CSS, até a criação de interfaces dinâmicas e interativas.
 
