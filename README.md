@@ -45,7 +45,7 @@ A formação abrange desde os fundamentos da programação, construção de pág
 
 Além disso, ensina a explorar os fundamentos de React e Node.js e desenvolver aplicações full-stack, desde o back-end até o front-end, através de diversos desafios práticos.
 
-Para conferir detalhes de todos os módulos da formação, acesse [aqui](https://www.rocketseat.com.br/formacao/fullstack).
+Para conferir informaçãoes de todos os módulos da formação, acesse [aqui](https://www.rocketseat.com.br/formacao/fullstack).
 
 ## 🚀 Tecnologias
 
