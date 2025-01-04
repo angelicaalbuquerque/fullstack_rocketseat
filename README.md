@@ -104,9 +104,9 @@ Todos os projetos realizados nesta formação serão publicados neste espaço, e
   <a href="mailto:hi@frontangie.dev" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/email.svg" alt="Email" height="50" width="50" />
   </a>
-  <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
+  <!-- <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/icons/circle/twitter.svg" alt="Twitter" height="50" width="50" />
-    </a>
+    </a> -->
 </p>
 
 ---
