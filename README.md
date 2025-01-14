@@ -90,7 +90,14 @@ Além de Git e Github, a formação conta com as seguintes tecnologias:
 
 ## 💻 Projetos
 
-Todos os projetos realizados nesta formação serão publicados neste espaço, em breve.
+Todos os projetos realizados nesta formação serão publicados neste espaço quando estiverem finalizados.
+
+<details>
+  <summary>Nível 3: Iniciando o HTML e CSS</summary>
+
+- [🍽️ Página de Receita](https://github.com/angelicaalbuquerque/fullstack-stage03-project01_rocketseat)
+- [✈️ Página de Local Turístico](https://github.com/angelicaalbuquerque/fullstack-stage03-project02_rocketseat)
+</details>
 
 ## 📬 Entre em contato!
 
