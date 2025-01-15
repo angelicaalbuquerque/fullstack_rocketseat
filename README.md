@@ -53,7 +53,7 @@ Para conferir informaçãoes de todos os módulos da formação, acesse [aqui](h
     <img src=".github/rocketseat-html-css-js.svg" width="500"/>
 </div>
 
-Além de Git e Github, a formação conta com as seguintes tecnologias:
+Além de Git e Github, a formação conta com as seguintes tecnologias, por enquanto:
 
 <details>
   <summary>Backend</summary>
