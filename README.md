@@ -103,6 +103,7 @@ Todos os projetos realizados nesta formação serão publicados neste espaço qu
   <summary>Nível 4: Avançando no HTML e CSS</summary>
 
 - [📸 Travelgram](https://github.com/angelicaalbuquerque/fullstack-stage04-project01_rocketseat)
+- [📰 Tech News](https://github.com/angelicaalbuquerque/fullstack-stage04-project02_rocketseat)
 </details>
 
 ## 📬 Entre em contato!
