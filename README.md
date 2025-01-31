@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  Fullstack | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/rocketseat.svg" width="150px;">
+  Fullstack | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/refs/heads/main/badges/rocketseat.svg" width="150px;">
 </h1>
 
 <p align="center">
